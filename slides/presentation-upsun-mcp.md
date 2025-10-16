@@ -7,17 +7,22 @@
 
 ## What is an MCP and Why does it matter?
 
-- Focus AI using specific, defined tools, instead of having it do whatever it thinks it should do.
-- The potential is great. The present situation isn’t perfect
+- Focus AI agent by using specific, defined tools, instead of having it do whatever it thinks it should do.
+- The potential is great. The present situation isn’t perfect.
 
 ---
 
 ## What can the Upsun MCP do?
 - Apology about title “Using MCP to Build an Upsun Site”… It can’t do that.
+- Look at available tools
+- List almost everything. 
+- Pause/unpause
 
 ---
 
 ## What can the GitHub MCP do?
+
+- List available tools
 
 ---
 
